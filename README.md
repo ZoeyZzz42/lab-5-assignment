@@ -9,3 +9,7 @@
 ## Scene Builder in IntelliJ
 <img width="1400" alt="image" src="https://github.com/ZoeyZzz42/lab-5-assignment/assets/94179126/c3524e57-b976-41a6-a2bc-babcfeef1307">
 
+## The Scene Builder App
+<img width="1240" alt="image" src="https://github.com/ZoeyZzz42/lab-5-assignment/assets/94179126/e8edc61f-0547-4c2f-9815-1de3bc67fb29">
+
+
